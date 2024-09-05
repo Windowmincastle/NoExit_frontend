@@ -379,7 +379,7 @@ export default {
         initMap() {
             console.log('지도 초기화 시작');
             const script = document.createElement('script');
-            script.src = `//dapi.kakao.com/v2/maps/sdk.js?appkey=${process.env.VUE_APP_KAKAO_API_KEY}&autoload=false`;
+            script.src = `//dapi.kakao.com/v2/maps/sdk.js?appkey=${process.env.VUE_APP_KAKAO_API_KEY}&autoload= false`;
 
             document.head.appendChild(script);
 

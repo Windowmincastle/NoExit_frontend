@@ -185,6 +185,10 @@ export default {
             this.client.subscribe(`/topic/room/${this.roomId}`, (message) => {
                 const receivedMessage = JSON.parse(message.body);
                 this.messages.push(receivedMessage);
+
+                this.$nextTick(() => {
+                    this.scrollToBottom();
+                });
             });
         },
         joinRoom() {
@@ -212,6 +216,8 @@ export default {
                     body: JSON.stringify(chatMessage)
                 });
                 this.message = '';
+
+
             }
         },
         formatDate(timestamp) {
@@ -381,7 +387,7 @@ export default {
 
 .message-time {
     font-size: 12px;
-    color: #b0b0b0;
+    color: #000000;
     margin-top: 5px;
     text-align: right;
 }
