@@ -1,5 +1,4 @@
-# NoExit
-방탈출게임을 사랑하는 찐덕후들을 위한 통합 플랫폼 서비스
+## 💕 방탈출게임을 사랑하는 찐덕후들을 위한 통합 플랫폼 서비스
 
 ![NoExit_Logo](https://github.com/user-attachments/assets/c82287fc-49f0-49ee-8602-a9835d39aafa)
 
@@ -14,9 +13,6 @@
 <br/>
 
 ## 📢 프로젝트 소개
-  
-<div align="left">
-
   NoExit는 전국의 방탈출 게임을 하나의 플랫폼에서 손쉽게 검색, 예약, 리뷰 확인,커뮤니티 참여, 참가인원 모집까지 할 수 있는 통합 플랫폼 서비스 입니다. 방탈출 게임을 사랑하는 유저들에게 편리한 서비스를 제공하며 방탈출 카페 업주들에게는 효율적인 마케팅과 고객 관리 도구를 제공합니다.
 
   <br/>
@@ -29,14 +25,15 @@
     
   ![escape-room-market](https://github.com/user-attachments/assets/4670d24b-8fc1-4d96-9d18-a9b35f8821ec)
   
--  현재 방탈출 산업의 호황은 엔터테인먼트에 대한 소비자의 욕구가 증가한 결과이며 앞으로도 산업 규모는 커질 것 으로 예상됩니다. 소비자들은 친구 및 가족과 함께 시간을 보낼 수 있는 새롭고 창의적인 방법을 찾으며 방탈출카페 산업은 점점 더 인기를 얻고 있습니다. 방탈출 카페 운영자는 고객들이 방탈출 서비스에 점점 더 다양한 테마, 창의적인 도전을 원하는 추세이며 그에따라 자연스럽게 더 질 좋은 서비스를 원하고 있습니다.
-  
+-  현재 방탈출 카페 산업은 사람들이 새로운 방식으로 여가를 즐기려는 욕구가 커짐에 따라 빠르게 성장하고 있습니다. 앞으로도 이 산업의 규모는 계속 확장될 것으로 보입니다. 소비자들은 친구나 가족과 함께 색다른 경험을 할 수 있는 방법을 찾고 있으며, 그로 인해 방탈출 카페는 점차 인기를 끌고 있습니다. 또한, 고객들은 점점 더 다양한 테마와 창의적인 도전을 원하고 있으며, 이에 따라 방탈출 카페 운영자들은 더 높은 품질의 서비스를 제공하려는 노력이 필요해지고 있습니다.
+
+
 - 저희 NoExit는 방탈출 카페를 찾는 사용자들에게는 다양한 선택지와 편리한 예약 기능을 제공하고 방탈출 카페 운영자에게는 효율적인 고객 관리와 마케팅 도구를 제공하여 마이너한 문화에서 메이저한 문화로 발전한 방탈출 문화를 더욱 활성화 하는 것을 목표로 합니다.
     
   
   <br/>
   
-## 💡 NoExit의 경쟁력
+## 🕹 NoExit의 경쟁력
 <div align="left">
 
   
@@ -58,7 +55,7 @@
 
 <br/>
 
-<div align=center>	
+
 
 
 ## 🛠 기술 스택
@@ -88,9 +85,10 @@
 
 
 ## 🗓️ Work Breakdown Structure
-
-
 [🗓️ WBS 상세 보기](https://docs.google.com/spreadsheets/d/1VdXKl6pfghy9OK6zTpShCHeG1uyAGB85Y2ycm1viF5g/edit?usp=sharing)
+![noexit_최신wbs1](https://github.com/user-attachments/assets/e9995986-c3c7-4c52-a841-cdb4fd10ea2c)
+![noexit_최신wbs2](https://github.com/user-attachments/assets/811db6b7-22e6-417d-95b6-299bdc5fc4db)
+![noexit_최신wbs3](https://github.com/user-attachments/assets/e8c518be-239b-4ea2-aa6c-adb4f2e1e6df)
 
 
 <br/>
@@ -99,35 +97,31 @@
 
 
 [📝 요구사항 명세서 상세보기](https://docs.google.com/spreadsheets/d/1VdXKl6pfghy9OK6zTpShCHeG1uyAGB85Y2ycm1viF5g/edit?gid=566809607#gid=566809607)
-
+![noexit_최신요구사항정의서1](https://github.com/user-attachments/assets/34187264-cd03-4777-ae4d-8b4512b41279)
+![noexit최신요구사항정의서2](https://github.com/user-attachments/assets/1d6d2312-3617-44c5-b68f-55ed85677a4c)
 <br/>
 
 ## 📋 ERD
 
-![findboard추가ERD (1)](https://github.com/user-attachments/assets/a7a859f6-06dd-436d-9fb4-dee6afef6081)
 
+[📝 ERD 상세보기 ](https://www.erdcloud.com/d/AwXSESqgB6Nw2SZZ5)
+![NoEXIT ERD 새로운 버전](https://github.com/user-attachments/assets/4f0495ca-6286-479f-8478-f7986712faeb)
 <br/>
 
 <div align=left>	
 
 
 ## 📌 주요 기능    
-- 참여 게시판
-  - 방탈출 게임 매니아들과 언제든지 함께 하기위해 원하는 게임, 시간, 인원을 선택하여 사람들을 모집할 수 있습니다.
-  - 모집인원 마감 시 자동으로 채팅방이 생성되어 참여 인원들에게 초대메시지를 보내지며 참여 인원들은 초대메시지를 통해 채팅방에 참여할 수 있습니다.
-- 정교한 검색 기능
-  - 게임을 카테고리별, 금액별, 난이도별로 검색할 수 있습니다.
-- 실시간 예약 및 승인&거절의 실시간 알림
-  - 사용자가 예약을 요청하면 점주는 예약 요청에 대한 알림을 받을 수 있습니다.
-  - 점주의 예약 승인/거절 여부에 대해서 사용자는 알림을 받을 수 있습니다. 
-- 실시간 채팅을 통한 커뮤니티&함께하기 활성화
-  - 함께하기 게시판을 이용해 생성된 채팅방에서 실시간으로 채팅하며 약속을 잡을 수 있습니다
-- 실시간 알림을 통한 커뮤니티 활성화
-  - 자신이 작성한 게시글에 댓글 작성 시 실시간 알림 기능
-  - 자신이 작성한 댓글의 추천 시 실시간 알림 기능
+| **기능**                         | **설명**                                                                                                                           |
+|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| **참여 게시판**                   | 방탈출 게임 매니아들과 원하는 게임, 시간, 인원을 선택하여 사람들을 모집하고, 모집 인원 마감 시 자동으로 채팅방 생성 및 초대 메시지 전송 |
+| **정교한 검색 기능**              | 게임을 카테고리별, 금액별, 난이도별로 검색할 수 있습니다.                                                                        |
+| **실시간 예약 및 승인/거절 알림**  | 사용자가 예약을 요청하면 점주는 알림을 받으며, 점주의 예약 승인/거절 여부에 대해 사용자는 실시간 알림을 받습니다.             |
+| **실시간 채팅을 통한 커뮤니티 활성화** | 함께하기 게시판을 통해 생성된 채팅방에서 실시간으로 채팅하며 약속을 잡을 수 있습니다.                                                |
+| **실시간 알림을 통한 커뮤니티 활성화** | 자신이 작성한 게시글에 댓글이 작성되면 실시간 알림, 자신이 작성한 댓글이 추천되면 실시간 알림을 받을 수 있습니다.                   |
 <br/>
 
-## ✨ 기능 테스트 및 시연
+## 🛠 기능 테스트 및 시연
 
 <details>
   <summary>
@@ -192,7 +186,7 @@
 
 <details>
   <summary>
-    <b>Escape With me</b>
+    <b>모집하기</b>
   </summary>
   <div markdown="1">
     <ul>
@@ -268,12 +262,10 @@
   </div>
 </details>
 
-## ✨ Devops Architecture
-
--CI/CD 아키텍처 설계서
+## ⚙ Devops Architecture
 <details>
   <summary>
-    <b>백엔드 아키텍처 임시</b>
+    <b>백엔드 아키텍처</b>
   </summary>
   <div markdown="1" align="left">
     
@@ -283,7 +275,7 @@
 
 <details>
   <summary>
-    <b>프론트엔드 아키텍처 임시</b>
+    <b>프론트엔드 아키텍처</b>
   </summary>
   <div markdown="1" align="left">
     
@@ -326,11 +318,9 @@
   </div>
 </details>
 
-## AWS 인프라 자원
-
 <details>
   <summary>
-    <b>자원 구성</b>
+    <b>AWS Infra 자원 구성</b>
   </summary>
   <div markdown="1" align="left">
     <ul>
@@ -354,7 +344,11 @@
   </div>
 </details>
 
-## 배포 URL 테스트 결과 GIF
+
+
+
+
+## 🕹배포 테스트
 <details>
   <summary>
     <b>GIF</b>
