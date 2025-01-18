@@ -1,6 +1,12 @@
-## 💕 방탈출게임을 사랑하는 찐덕후들을 위한 통합 플랫폼 서비스
+<div align="center">
+  
+  # 💕방탈출게임을 매니아를 위한 통합 플랫폼 서비스
+</div>
 
-![NoExit_Logo](https://github.com/user-attachments/assets/c82287fc-49f0-49ee-8602-a9835d39aafa)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c82287fc-49f0-49ee-8602-a9835d39aafa" alt="NoExit_Logo" />
+</div>
 
 <br/>
 
@@ -20,15 +26,12 @@
 ## 💡 프로젝트 배경 및 필요성
   
 <div align="left">
-
-방탈출게임 시장 동향
-    
-  ![escape-room-market](https://github.com/user-attachments/assets/4670d24b-8fc1-4d96-9d18-a9b35f8821ec)
   
--  현재 방탈출 카페 산업은 사람들이 새로운 방식으로 여가를 즐기려는 욕구가 커짐에 따라 빠르게 성장하고 있습니다. 앞으로도 이 산업의 규모는 계속 확장될 것으로 보입니다. 소비자들은 친구나 가족과 함께 색다른 경험을 할 수 있는 방법을 찾고 있으며, 그로 인해 방탈출 카페는 점차 인기를 끌고 있습니다. 또한, 고객들은 점점 더 다양한 테마와 창의적인 도전을 원하고 있으며, 이에 따라 방탈출 카페 운영자들은 더 높은 품질의 서비스를 제공하려는 노력이 필요해지고 있습니다.
+  ![2025-01-18 16;00;44](https://github.com/user-attachments/assets/922871dc-5b57-47c7-b4df-74b3df676744)
+-  방탈출 카페 산업은 새로운 여가활동을 찾는 사람들이 늘어나면서 빠르게 성장하고 있습니다. 친구나 가족과 특별한 경험을 즐기고자 하는 소비자들의 수요가 증가하며, 방탈출 카페는 다양한 테마와 독특한 경험을 제공하며 점점 더 큰 인기를 얻고 있습니다. 하지만 소비자들이 방탈출 카페를 쉽게 검색하고 예약할 수 있는 플랫폼은 부족한 실정입니다.
 
 
-- 저희 NoExit는 방탈출 카페를 찾는 사용자들에게는 다양한 선택지와 편리한 예약 기능을 제공하고 방탈출 카페 운영자에게는 효율적인 고객 관리와 마케팅 도구를 제공하여 마이너한 문화에서 메이저한 문화로 발전한 방탈출 문화를 더욱 활성화 하는 것을 목표로 합니다.
+- NoExit 서비스는 사용자들에게 다양한 방탈출 카페를 쉽게 검색하고 예약할 수 있는 플랫폼을 제공합니다. 또한, 운영자들에게는 고객 관리와 마케팅을 효율화할 수 있는 도구를 지원합니다. 이를 통해 방탈출 카페 문화가 더 많은 사람들에게 사랑받는 메이저 여가문화로 자리 잡는 데 기여하고자 합니다.
     
   
   <br/>
@@ -37,19 +40,19 @@
 <div align="left">
 
   
-- 편리한 예약 서비스를 제공하며 손 쉽게 방탈출 게임 정보를 제공한다.
+- 편리한 예약 서비스를 제공하며 손 쉽게 방탈출 게임 정보를 제공합니다.
 
   
-- 정교한 필터링 기능으로 사용자 맞춤형 추천을 제공한다.
+- 정교한 필터링 기능으로 사용자 맞춤형 추천을 제공합니다.
 
   
-- 사용자 리뷰 및 평점 시스템을 통해 신뢰할 수 있는 정보를 제공한다.
+- 사용자 리뷰 및 평점 시스템을 통해 신뢰할 수 있는 정보를 제공합니다.
 
   
-- 유저 간 활발한 커뮤니티를 통해 지속적인 유입과 참여를 유도하며 함께하기 기능을 통해 점주는 매출 증대를 기대할 수 있다.
+- 사용자 간 활발한 커뮤니티를 통해 지속적인 유입과 참여를 유도하며 함께하기 기능을 통해 점주는 매출 증대를 기대할 수 있습니다.
 
   
-- 업주에게 효율적인 예약 시스템을 제공하여 효율적인 비즈니스 운영을 지원한다.
+- 업주에게 효율적인 예약 시스템을 제공하여 효율적인 비즈니스 운영을 지원합니다.
 </div>
 
 
@@ -66,20 +69,35 @@
 ![amazons3](https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
 ### BACKEND
-![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![socketdotio](https://img.shields.io/badge/socketdotio-010101?style=for-the-badge&logo=socketddotio&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=WebSocket&logoColor=white)
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 
 ### FRONTEND
 ![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![vuetify](https://img.shields.io/badge/vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
 
 ### TOOLS
-![Notion](https://img.shields.io/badge/notion-181717?style=for-the-badge&logo=notion&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-181717?style=for-the-badge&logo=notion&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)
-![figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<img src="https://img.shields.io/badge/Google Docs-4285F4?style=for-the-badge&logo=GoogleDocs&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio Code-4285F4?style=for-the-badge&logo=&logoColor=blue">
 
+### DEVOPS
+<img src="https://img.shields.io/badge/Amazon aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon EKS-FF9900?style=for-the-badge&logo=AmazonEKS&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 
 <br/>
 
@@ -114,7 +132,7 @@
 ## 📌 주요 기능    
 | **기능**                         | **설명**                                                                                                                           |
 |----------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
-| **참여 게시판**                   | 방탈출 게임 매니아들과 원하는 게임, 시간, 인원을 선택하여 사람들을 모집하고, 모집 인원 마감 시 자동으로 채팅방 생성 및 초대 메시지 전송 |
+| **참여 게시판**                   | 방탈출 게임 사용자들과 원하는 게임, 시간, 인원을 선택하여 사람들을 모집하고, 모집 인원 마감 시 자동으로 채팅방 생성 및 초대 메시지 전송 |
 | **정교한 검색 기능**              | 게임을 카테고리별, 금액별, 난이도별로 검색할 수 있습니다.                                                                        |
 | **실시간 예약 및 승인/거절 알림**  | 사용자가 예약을 요청하면 점주는 알림을 받으며, 점주의 예약 승인/거절 여부에 대해 사용자는 실시간 알림을 받습니다.             |
 | **실시간 채팅을 통한 커뮤니티 활성화** | 함께하기 게시판을 통해 생성된 채팅방에서 실시간으로 채팅하며 약속을 잡을 수 있습니다.                                                |
@@ -231,7 +249,6 @@
       <li>게시판 글 추천/비추천
         
   ![게시글좋아요싫어요](https://github.com/user-attachments/assets/dc3e7362-c39f-4c5f-9b44-29ea2fc41b02)</li>
-      <li>댓글 작성 및 수정</li>
       <li>댓글 추천/비추천
         
   ![댓글좋아요싫어요](https://github.com/user-attachments/assets/f74b1d7c-05bc-488b-abd2-de82d071a6fa)
@@ -265,7 +282,7 @@
 ## ⚙ Devops Architecture
 <details>
   <summary>
-    <b>백엔드 아키텍처</b>
+    <b>프론트엔드 아키텍처</b>
   </summary>
   <div markdown="1" align="left">
     
@@ -275,7 +292,7 @@
 
 <details>
   <summary>
-    <b>프론트엔드 아키텍처</b>
+    <b>백엔드 아키텍처</b>
   </summary>
   <div markdown="1" align="left">
     
@@ -348,7 +365,7 @@
 
 
 
-## 🕹배포 테스트
+## 🕹 배포 테스트 화면
 <details>
   <summary>
     <b>GIF</b>
